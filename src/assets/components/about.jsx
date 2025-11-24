@@ -52,27 +52,27 @@ function About() {
             {/* Developer Card */}
             <aside className="bg-gray-900/60 border border-gray-700 rounded-2xl p-5 h-fit">
               <div className="w-20 h-20 sm:w-24 sm:h-24 rounded-2xl bg-gradient-to-br from-blue-600 to-purple-600 grid place-items-center shadow-lg select-none">
-                <span className="text-2xl sm:text-3xl font-bold">AY</span>
+                <span className="text-2xl sm:text-3xl font-bold">SR</span>
               </div>
               <h3 className="text-xl font-semibold mt-4">Developer</h3>
-              <p className="text-gray-300">Abhisekh Yadav</p>
+              <p className="text-gray-300">Saurabh Roy</p>
               <p className="text-gray-400 mt-2 text-sm">
                 Full-stack developer passionate about creating seamless user experiences with robust backend systems.
               </p>
               <div className="mt-4 flex flex-wrap items-center gap-2">
                 <a
-                  href="https://www.linkedin.com/in/abhisekh-yadav-493306248/"
+                  href="www.linkedin.com/in/saurabh--roy"
                   target="_blank"
                   rel="noreferrer"
                   className="p-2 rounded-lg bg-blue-600 hover:bg-blue-700 transition-colors border border-blue-500/40"
                   title="LinkedIn"
                 >
-                  <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="currentColor">
+                  <svg xmlns="www.linkedin.com/in/saurabh--roy" width="20" height="20" viewBox="0 0 24 24" fill="currentColor">
                     <path d="M19 0h-14c-2.761 0-5 2.239-5 5v14c0 2.761 2.239 5 5 5h14c2.762 0 5-2.239 5-5v-14c0-2.761-2.238-5-5-5zm-11 19h-3v-11h3v11zm-1.5-12.268c-.966 0-1.75-.79-1.75-1.764s.784-1.764 1.75-1.764 1.75.79 1.75 1.764-.783 1.764-1.75 1.764zm13.5 12.268h-3v-5.604c0-3.368-4-3.113-4 0v5.604h-3v-11h3v1.765c1.396-2.586 7-2.777 7 2.476v6.759z"/>
                   </svg>
                 </a>
                 <a
-                  href="https://www.instagram.com/abhisekh__yadav/"
+                  href=""
                   target="_blank"
                   rel="noreferrer"
                   className="p-2 rounded-lg bg-pink-600 hover:bg-pink-700 transition-colors border border-pink-500/40"
@@ -83,7 +83,7 @@ function About() {
                   </svg>
                 </a>
                 <a
-                  href="https://x.com/abhisekh_y50320"
+                  href=""
                   target="_blank"
                   rel="noreferrer"
                   className="p-2 rounded-lg bg-gray-700 hover:bg-gray-600 transition-colors border border-gray-500/40"
